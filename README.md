@@ -27,7 +27,7 @@ A machine learning-based Career Recommendation System that helps students or ind
 
 ## 🔗 Important Links
 
-- **GitHub Repository:** [Career_Recommendation_System](https://github.com/naman-omar/Career_Recommendation_System)
+- **GitHub Repository:** [Career_Recommendation_System](https://github.com/Goyalyash11/Career_Recommendation_System)
 - **Android APK:** [Download APK](https://drive.google.com/file/d/1Qk5dKeFY2bpgAik_Uai30ird8rXb4z5i/view?usp=sharing)
 
 ## 🔍 How It Works
